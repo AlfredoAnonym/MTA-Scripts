@@ -1,0 +1,53 @@
+<map edf:definitions="editor_main,race">
+    <spawnpoint id="spawnpoint (Voodoo) (1)" vehicle="412" interior="0" posX="977.59998" posY="-1441.4" posZ="13.5" rotX="0" rotY="0" rotZ="-90.245"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (2)" vehicle="412" alpha="255" interior="0" posX="977.70001" posY="-1445" posZ="13.5" rotX="0" rotY="0" rotZ="-90.245"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (3)" vehicle="412" alpha="255" interior="0" posX="977.79999" posY="-1448.1" posZ="13.5" rotX="0" rotY="0" rotZ="-90.245"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (4)" vehicle="412" alpha="255" interior="0" posX="977.90002" posY="-1451.5" posZ="13.5" rotX="0" rotY="0" rotZ="-90.245"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (5)" vehicle="412" alpha="255" interior="0" posX="969.90002" posY="-1451.6" posZ="13.5" rotX="0" rotY="0" rotZ="-90.245"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (6)" vehicle="412" alpha="255" interior="0" posX="969.79999" posY="-1448.4" posZ="13.5" rotX="0" rotY="0" rotZ="-90.245"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (7)" vehicle="412" alpha="255" interior="0" posX="969.70001" posY="-1444.5" posZ="13.5" rotX="0" rotY="0" rotZ="-90.245"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (8)" vehicle="412" alpha="255" interior="0" posX="969.59998" posY="-1441.1" posZ="13.5" rotX="0" rotY="0" rotZ="-90.245"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (9)" vehicle="412" alpha="255" interior="0" posX="960.90002" posY="-1441" posZ="13.5" rotX="0" rotY="0" rotZ="-90.245"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (10)" vehicle="412" alpha="255" interior="0" posX="961" posY="-1444.7" posZ="13.5" rotX="0" rotY="0" rotZ="-90.245"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (11)" vehicle="412" alpha="255" interior="0" posX="961.09998" posY="-1448.3" posZ="13.5" rotX="0" rotY="0" rotZ="-90.245"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (12)" vehicle="412" alpha="255" interior="0" posX="961.20001" posY="-1451.5" posZ="13.5" rotX="0" rotY="0" rotZ="-90.245"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (13)" vehicle="412" alpha="255" interior="0" posX="960.5" posY="-1458.1" posZ="13.5" rotX="0" rotY="0" rotZ="-0.002"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (15)" vehicle="412" alpha="255" interior="0" posX="960.5" posY="-1458.0996" posZ="13.5" rotX="0" rotY="0" rotZ="-0.005"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (16)" vehicle="412" alpha="255" interior="0" posX="961.09961" posY="-1448.2998" posZ="13.5" rotX="0" rotY="0" rotZ="-90.247"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (17)" vehicle="412" alpha="255" interior="0" posX="961.2002" posY="-1451.5" posZ="13.5" rotX="0" rotY="0" rotZ="-90.247"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (18)" vehicle="412" alpha="255" interior="0" posX="961" posY="-1444.7002" posZ="13.5" rotX="0" rotY="0" rotZ="-90.247"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (19)" vehicle="412" alpha="255" interior="0" posX="960.90039" posY="-1441" posZ="13.5" rotX="0" rotY="0" rotZ="-90.247"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (21)" vehicle="412" alpha="255" interior="0" posX="969.90039" posY="-1451.5996" posZ="13.5" rotX="0" rotY="0" rotZ="-90.247"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (22)" vehicle="412" alpha="255" interior="0" posX="969.7998" posY="-1448.4004" posZ="13.5" rotX="0" rotY="0" rotZ="-90.247"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (23)" vehicle="412" alpha="255" interior="0" posX="969.59961" posY="-1441.0996" posZ="13.5" rotX="0" rotY="0" rotZ="-90.247"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (24)" vehicle="412" alpha="255" interior="0" posX="969.7002" posY="-1444.5" posZ="13.5" rotX="0" rotY="0" rotZ="-90.247"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (25)" vehicle="412" alpha="255" interior="0" posX="977.7002" posY="-1445" posZ="13.5" rotX="0" rotY="0" rotZ="-90.247"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (26)" vehicle="412" alpha="255" interior="0" posX="977.59961" posY="-1441.4004" posZ="13.5" rotX="0" rotY="0" rotZ="-90.247"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (27)" vehicle="412" alpha="255" interior="0" posX="977.7998" posY="-1448.0996" posZ="13.5" rotX="0" rotY="0" rotZ="-90.247"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (28)" vehicle="412" alpha="255" interior="0" posX="977.90039" posY="-1451.5" posZ="13.5" rotX="0" rotY="0" rotZ="-90.247"></spawnpoint>
+    <checkpoint id="checkpoint () (1)" type="checkpoint" color="#FE000099" size="8" interior="0" nextid="checkpoint () (2)" posX="1053.8" posY="-1462.4" posZ="12.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (2)" type="checkpoint" color="#FE000099" size="8" alpha="255" interior="0" nextid="checkpoint () (3)" posX="1058.7" posY="-1296.9" posZ="12.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (3)" type="checkpoint" color="#FE000099" size="8" alpha="255" interior="0" nextid="checkpoint () (4)" posX="1208.9" posY="-1279.8" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (4)" type="checkpoint" color="#FE000099" size="8" alpha="255" interior="0" nextid="checkpoint () (5)" posX="1216.8" posY="-1156.7" posZ="22.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (5)" type="checkpoint" color="#FE000099" size="8" alpha="255" interior="0" nextid="checkpoint () (6)" posX="1096.6" posY="-1145" posZ="22.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (6)" type="checkpoint" color="#FE000099" size="8" alpha="255" interior="0" nextid="checkpoint () (7)" posX="1082.5" posY="-1053.3" posZ="30.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (7)" type="checkpoint" color="#FE000099" size="8" alpha="255" interior="0" nextid="checkpoint () (8)" posX="975.5" posY="-1039.1" posZ="29.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (8)" type="checkpoint" color="#FE000099" size="8" alpha="255" interior="0" nextid="checkpoint () (9)" posX="962.59998" posY="-1126.6" posZ="22.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (9)" type="checkpoint" color="#FE000099" size="8" alpha="255" interior="0" nextid="checkpoint () (10)" posX="942.70001" posY="-1166.2" posZ="21.3" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (10)" type="checkpoint" color="#FE000099" size="8" alpha="255" interior="0" nextid="checkpoint () (11)" posX="942.09998" posY="-1305.1" posZ="12.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (11)" type="checkpoint" color="#FE000099" size="8" alpha="255" interior="0" nextid="checkpoint () (12)" posX="916.90002" posY="-1388" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (12)" type="checkpoint" color="#FE000099" size="8" alpha="255" interior="0" nextid="checkpoint () (13)" posX="803.40002" posY="-1400.6" posZ="12.5" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (13)" type="checkpoint" color="#FE000099" size="8" alpha="255" interior="0" nextid="checkpoint () (14)" posX="771.5" posY="-1568.7" posZ="12.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (14)" type="checkpoint" color="#FE000099" size="8" alpha="255" interior="0" nextid="checkpoint () (15)" posX="754.5" posY="-1757.6" posZ="11.8" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (15)" type="checkpoint" color="#FE000099" size="8" alpha="255" interior="0" nextid="checkpoint () (16)" posX="944.20001" posY="-1793.1" posZ="12.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <removeWorldObject id="removeWorldObject (lamppost1) (1)" radius="6.0116315" interior="-1" model="1297" lodModel="0" posX="944" posY="-1796.6484" posZ="16.27344" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <checkpoint id="checkpoint () (16)" type="checkpoint" color="#FE000099" size="8" alpha="255" interior="0" nextid="checkpoint () (17)" posX="941.20001" posY="-1827.6" posZ="11.7" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (17)" type="checkpoint" color="#FE000099" size="8" alpha="255" interior="0" nextid="checkpoint () (18)" posX="1011.6" posY="-1847.5" posZ="12.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (18)" type="checkpoint" color="#FE000099" size="8" alpha="255" interior="0" nextid="checkpoint () (19)" posX="853.29999" posY="-1856.5" posZ="7.6" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (19)" type="checkpoint" color="#FE000099" size="15" alpha="255" interior="0" nextid="checkpoint () (20)" posX="731.09998" posY="-1850.5" posZ="12.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (20)" type="checkpoint" color="#FE000099" size="8" alpha="255" interior="0" nextid="checkpoint () (21)" posX="397.29999" posY="-1885.9" posZ="1.2" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <removeWorldObject id="removeWorldObject (santagard_LAw2) (1)" radius="5.5634165" interior="-1" model="6517" lodModel="0" posX="322.41406" posY="-1769.0312" posZ="5.25" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <checkpoint id="checkpoint () (21)" type="checkpoint" color="#FE000099" size="8" alpha="255" interior="0" nextid="checkpoint () (22)" posX="327.70001" posY="-1885.5" posZ="1.1" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (22)" type="checkpoint" color="#FE000099" size="8" alpha="255" interior="0" nextid="checkpoint () (23)" posX="335.10001" posY="-1815.5" posZ="3.4" rotX="0" rotY="0" rotZ="0"></checkpoint>
+    <checkpoint id="checkpoint () (23)" type="corona" color="#FE000099" size="3" alpha="255" interior="0" posX="322.39999" posY="-1766.3" posZ="4.9" rotX="0" rotY="0" rotZ="0"></checkpoint>
+</map>
