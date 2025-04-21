@@ -1,0 +1,21 @@
+<meta>
+    <info author="Grok AI" name="Sound GUI" version="1.0" type="script" />
+    <script src="client.lua" type="client" />
+    <script src="server.lua" type="server" />
+    <!-- Add your MP3 files in the sounds folder -->
+    <file src="sounds/sound1.mp3" />
+    <file src="sounds/sound2.mp3" />
+    <file src="sounds/sound3.mp3" />
+    <file src="sounds/sound4.mp3" />
+    <file src="sounds/sound5.mp3" />
+    <file src="sounds/sound6.mp3" />
+    <file src="sounds/sound7.mp3" />
+    <file src="sounds/sound8.mp3" />
+    <file src="sounds/sound9.mp3" />
+    <file src="sounds/sound10.mp3" />
+    <file src="sounds/sound11.mp3" />
+    <file src="sounds/sound12.mp3" />
+    <file src="sounds/sound13.mp3" />
+    <file src="sounds/sound14.mp3" />
+    <file src="sounds/sound15.mp3" />
+</meta>
